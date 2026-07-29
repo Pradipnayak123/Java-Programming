@@ -7,6 +7,7 @@ public class basic_2 {
         Scanner sc = new Scanner(System.in);
         for(int i =10;i<=16;i++){
             System.out.println("Hello Java!");
+            System.out.println();
         }
     }
 }
