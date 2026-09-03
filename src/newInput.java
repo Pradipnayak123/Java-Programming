@@ -4,5 +4,6 @@ public class newInput {
         System.out.println("Heyy Java .c.h....");
         System.out.println("Will Start   Soon");
 
+
     }
 }
