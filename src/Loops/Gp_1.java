@@ -8,7 +8,7 @@ public class Gp_1 {
         //1,2,4,8,16,32....
        int a = 1,r = 2;
         for (int i=1;i<=n;i++){
-            System.out.println(a);
+            System.out.print(a);
             a*=r;
         }
     }
