@@ -2,14 +2,14 @@ package Patten_Printing;
 
 import java.util.Scanner;
 
-public class solid_sqare {
+public class similar_row {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter no of rows amd Cols");
         int n = sc.nextInt();
-        for(int i=0;i<=n;i++){
-            for (int j=0;j<=n;j++){
-                System.out.print("* ");
+        for(int i=1;i<=n;i++){
+            for (int j=1;j<=n;j++){
+                System.out.print(i+" ");
             }
             System.out.println();
         }
