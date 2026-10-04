@@ -12,7 +12,7 @@ public class swap_using_fun {
         int a = 5;
         int b = 10;
         System.out.println("a"+" = "+a+" b = "+b);
-        swap(a,b);
+        swap(a,b );
 
     }
 }
