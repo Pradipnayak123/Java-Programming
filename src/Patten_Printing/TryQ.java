@@ -8,6 +8,7 @@ class Solution16 {
             }
             System.out.println();
             System.out.println();
+            System.out.println();
         }
 
     }
