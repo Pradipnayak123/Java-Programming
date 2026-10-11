@@ -7,10 +7,6 @@ class Solution16 {
                 System.out.print((char)(i+64));
             }
             System.out.println();
-            System.out.println();
-            System.out.println();
-            System.out.println();
-            System.out.println();
         }
 
     }
