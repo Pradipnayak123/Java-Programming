@@ -8,7 +8,7 @@ class Solution {
                 System.out.print(j);
 
             }
-            System.out.println(" ");
+            System.out.println();
 
         }
 
